@@ -23,6 +23,23 @@ and the validation rules. The user will only be able to proceed, if all the vali
 specified in the API response are satisfactory. If not, the user should be prompted
 with an understandable error message.
 
+## Package Hierarchy :
+
+<img src="screenshot_package.png" width="300" height="600">
+
+## Classes :
+
+Following are some of important classes used in the project:
+
+1. MainActivity --> Contains the home screen with dropdown menu and proceed button.
+2. FormActivity --> Contains the layout which will inflate the form dynamically on reponse to the api reponse json data.
+3. ApiResponseModel --> Contains the POJO/model class for the call made by Retrofit.
+4. ApiClient --> Contains code required for Retrofit instance
+5. ApiInterface --> Contains request type of Retrofit REST API call. (i.e. @GET )
+6. RemoteDataProvider --> Handles the onResponse() and onFailed() methods of Retrofit API call.
+7. Constants --> Provides constant values required through out the app.
+8. FormContentProvider --> Provides the programmatically generated dynamic User Interface for different screens.
+
 ## Screenshots :
 
 <img src="screenshot_home.png" width="300" height="600">   <img src="screenshot_dropdown.png" width="300" height="600">
