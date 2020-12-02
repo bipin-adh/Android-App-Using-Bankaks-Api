@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BankaksAssessment</string>
+    <string name="txt_proceed_button">PROCEED</string>
+    <string name="txt_form_submit">Submit</string>
+    <string name="txt_home_title">PLEASE SELECT AN OPTION BELOW FOR PAYMENT</string>
+
+    <string name="prompt_msg_dropdown">"Please select required option"</string>
+
+    <string name="error_msg_network">"Network Error"</string>
+    <string name="error_msg_selection">"Please select an option"</string>
+    <string name="error_msg_empty_field">Textfield is empty</string>
+    <string name="error_msg_invalid_input">Invalid input</string>
+    <string name="error_msg_server">Server input validation issue</string>
+
+    <string name="progress_loading_title">Loading</string>
+    <string name="progress_loading_msg">Please wait ...</string>
+
+    <string-array name="options_array">
+        <item>Option 1</item>
+        <item>Option 2</item>
+        <item>Option 3</item>
+    </string-array>
+</resources>
