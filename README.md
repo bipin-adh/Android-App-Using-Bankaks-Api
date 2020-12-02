@@ -1,9 +1,9 @@
 ## Android-App-Using-Bankaks-Api
 This project is an application for the coding assessment provided by Bankaks .
 
-## Problem Statement:
+## Issue : :warning: There is an error in `regex`provided by API response. It has been handled through a try catch block and as per the condition required.   
 
-:warning: There is an error in `regex`provided by API response. It has been handled through a try catch block and as per the condition required.  
+## Problem Statement:
 
 A user on the Bankaks mobile platform wants to make a bill payment for a given
 particular country. As there are multiple countries, the inputs for each
