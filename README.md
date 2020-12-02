@@ -45,4 +45,17 @@ Following are some of important classes used in the project:
 <img src="screenshot_home.png" width="300" height="600">   <img src="screenshot_dropdown.png" width="300" height="600">
 
 <img src="screenshot_electricity_bill.png" width="300" height="600">   <img src="screenshot_water_bill.png" width="300" height="600">
+
+## Libraries Used :
+
+1. Retrofit
+2. Constraint Layout
+
+## Dependencies : 
+
+* implementation 'com.google.code.gson:gson:2.8.5'
+* implementation 'com.squareup.retrofit2:retrofit:2.5.0'
+* implementation 'com.squareup.retrofit2:converter-gson:2.5.0'
+* implementation 'androidx.constraintlayout:constraintlayout:2.0.4'
+    
  
