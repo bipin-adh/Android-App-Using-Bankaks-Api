@@ -25,7 +25,7 @@ with an understandable error message.
 
 ## Package Hierarchy :
 
-<img src="screenshot_package.png" width="400" height="600">
+<img src="screenshot_package.png" width="400" height="600">     <img src="screenshot_res.png" width="400" height="600"> 
 
 ## Classes :
 
